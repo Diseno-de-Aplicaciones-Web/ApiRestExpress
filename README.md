@@ -1,16 +1,16 @@
 # Introducción API backend
 
-## Instalación de dependencias
+## Puesta en marcha
+1. Instalación de dependencias
 ```bash
 npm install
 ```
-
-## Puesta en marcha
+2. Ejecución del programa
 ```bash
 node index.mjs
 ```
 
-## Memoria de contrucción de este proyecto desde cero
+## Memoria de construcción de este proyecto desde cero
 
 1. Crear el repositorion en GitHub (o similar) y clonarlo localmente.
 ```bash
